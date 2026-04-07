@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hey, I'm Adrian 👋
 
-<!--
-**ese51/ese51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build systems that eliminate manual work and make businesses run smoother.
 
-Here are some ideas to get you started:
+Most businesses don’t have a people problem — they have a systems problem.
+Missed leads, slow responses, and disconnected tools are usually the root cause.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I design and implement systems that fix that.
+
+---
+
+## 🚀 What I Do
+
+- **Lead Response Systems** → reply to every inquiry instantly and route it correctly  
+- **AI Receptionist Systems** → handle calls, bookings, and customer intake  
+- **Automation Pipelines** → connect tools, data, and decisions into one flow  
+
+---
+
+## 🧠 Key Systems
+
+### AI Receptionist (Voice Agent)
+Handles inbound calls, qualifies customers, books appointments, and escalates when needed.
+
+### HiveMind (Multi-Agent System)
+A business operating system using agents to manage workflows, content, and decisions.
+
+### Lead Capture + Response Engine
+Captures, qualifies, and responds to leads across multiple channels in real-time.
+
+---
+
+## ⚙️ How I Build
+
+I focus on outcomes, not tools:
+- Faster response times  
+- Fewer missed opportunities  
+- Less manual work  
+
+Typically built using agent workflows, automation systems, and real-time integrations.
+
+---
+
+## 🏗 Currently Building
+
+- Hive Nova → applied systems for small businesses  
+- HiveMind → multi-agent business OS  
+
+---
+
+If you're trying to fix a broken process or remove bottlenecks, that’s usually where I come in.
