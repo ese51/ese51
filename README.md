@@ -1,17 +1,32 @@
 # Hey, I'm Adrian 👋
 
-I build systems that eliminate manual work and make businesses run smoother.
+I build systems that replace manual work and make businesses run without constant oversight.
 
-Most businesses don’t have a people problem — they have a systems problem.
+Most businesses don’t have a people problem — they have a systems problem.  
 Missed leads, slow responses, and disconnected tools are usually the root cause.
 
-I design and implement systems that fix that.
+I design and implement systems that fix that at the source.
 
 ---
 
-## 🚀 What I Do
+## 📞 Live Demo
 
-- **Lead Response Systems** → reply to every inquiry instantly and route it correctly  
+Most businesses miss calls or respond too slowly. This is a working system that answers instantly and books appointments automatically.
+
+Call and try it:  
+👉 [Insert phone number]
+
+What it does:
+- Answers immediately  
+- Understands what you need  
+- Guides you to a booking  
+- Escalates if needed  
+
+---
+
+## ⚙️ Systems I Build
+
+- **Lead Response Systems** → reply to every inquiry in under 60 seconds and route it correctly  
 - **AI Receptionist Systems** → handle calls, bookings, and customer intake  
 - **Automation Pipelines** → connect tools, data, and decisions into one flow  
 
